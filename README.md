@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm VIKRAM SINGH</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **MERN Stack**
+- 💬 Ask me about **HTML CSS Vanilla Javascript**
+
+- 📫 How to reach me **er.vikramsingh10@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/its-vikram-singh/) 
