@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm VIKRAM SINGH<br>A passionate FULL STACK DEVELOPER from India<br>🌱 I’m currently work **MERN Stack**<br>💬 Ask me about **HTML CSS JavaScript React JS**<br>📫 How to reach me **er.vikramsingh10@gmail.com**
+Hi 👋, I'm VIKRAM SINGH<br>A passionate FULL STACK DEVELOPER from India<br>🌱 I’m currently work **MERN Stack**<br>💬 Ask me about **HTML CSS JavaScript React JS Redux Context API**<br>📫 How to reach me **er.vikramsingh10@gmail.com**
 
 
 ## 🌐 Socials:
